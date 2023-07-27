@@ -11,7 +11,7 @@ interface Props {
 }
 
 function editTask (){
-  console.log("teste");
+  console.log("teste 2");
   
   
 }
